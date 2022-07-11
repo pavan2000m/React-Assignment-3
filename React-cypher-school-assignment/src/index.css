@@ -1,0 +1,33 @@
+.border{
+  border:2px solid black;
+  border-radius: 10px;
+}
+.flex{
+  display:  flex;
+  justify-content: space-between;
+  font-weight: bold;
+  padding: 0;
+  
+}
+div{
+  padding:0.5rem;
+}
+
+.img{
+  max-width: 10rem;
+  max-height: 5rem;
+}
+.perk{
+  background-color: antiquewhite;
+  font-size: 10px;
+  font-weight: 100;
+}
+.vendor-address{
+  font-size: 10px;
+  font-weight: 100;
+  /* padding: 0; */
+  margin-right: 40px;
+}
+.button{
+  border-radius: 5px;
+}
